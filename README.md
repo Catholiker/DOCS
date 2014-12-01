@@ -1,4 +1,4 @@
 DOCS
 ====
 
-alle dokumenter kan legges inn he
+alle dokumenter kan legges inn her
